@@ -47,7 +47,7 @@ h2 {
 }
 
 
-/* ===== Container (NEW - للاندكس) ===== */
+/* ===== Container ===== */
 .container {
     background-color: white;
     margin: 3vh auto;
@@ -161,4 +161,9 @@ footer {
     padding: 2vh;
     background-color: #333;
     color: white;
+}
+blockquote {
+    text-align: center;
+    font-style: italic;
+    color: #555;
 }
